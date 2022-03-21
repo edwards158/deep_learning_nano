@@ -38,7 +38,7 @@ Learn how to build convolutional networks and use them to classify images (faces
 #### Lessons: 
 CNNs, Cloud Computing, Transfer Learning, Weight Initialisation, Autoencoders, Style Transfer
 
-### Course Project: [Dog-Breed Classifier](https://github.com/riched158/deep_learning_nano/blob/main/project-dog-classification/dog_app.ipynb) &nbsp;
+### Course Project: [Dog-Breed Classifier](https://github.com/edwards158/deep_learning_nano/blob/main/project-dog-classification/dog_app.ipynb) &nbsp;
 In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an
 image of a dog, your algorithm will identify an estimate of the canine’s breed
 
