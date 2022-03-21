@@ -26,7 +26,7 @@ Learn neural network basics, and build your first network with Python and NumPy.
 #### Lessons: 
 Neural Networks, Implementing Gradient Descent, Training Neural Networks, Sentiment Analysis
 
-### Course Project: [Predicting Bike-Sharing Patterns](https://github.com/riched158/deep_learning_nano/blob/main/project-bike-sharing/Predicting_bike_sharing_data.ipynb) &nbsp;
+### Course Project: [Predicting Bike-Sharing Patterns](https://github.com/edwards158/deep_learning_nano/blob/main/project-bike-sharing/Predicting_bike_sharing_data.ipynb) &nbsp;
 Build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
 
 ## Course 3
