@@ -51,7 +51,7 @@ Build your own recurrent networks and long short-term memory networks with PyTor
 #### Lessons: 
 Recurrent Neural Networks, LSTMs, Implementation of RNN & LSTM, Hyperparameters, Embeddings & Word2Vec, Sentiment Prediction RNN
 
-### Course Project: [Generate TV Scripts](https://github.com/riched158/deep_learning_nano/blob/main/project-tv-script-generation/dlnd_tv_script_generation.ipynb) &nbsp;
+### Course Project: [Generate TV Scripts](https://github.com/edwards158/deep_learning_nano/blob/main/project-tv-script-generation/dlnd_tv_script_generation.ipynb) &nbsp;
 Generate a TV script by defining and training a recurrent neural network
 
 ## Course 5
