@@ -13,7 +13,7 @@ This repository contains some my work from the Deep Learning with pytorch Udacit
 Introduce yourself to deep learning by applying style transfer to your own images, and gaining experience
 using development tools such as Anaconda and Jupyter notebooks.
 
-### Course Project: [Build a Neural Network](https://github.com/riched158/deep_learning_nano/blob/main/Neural_Nets/Sentiment_Classification_Projects.ipynb) &nbsp;
+### Course Project: [Build a Neural Network](https://github.com/edwards158/deep_learning_nano/tree/main/Neural_Nets/Sentiment_Classification_Projects.ipynb) &nbsp;
 Build and train your own Neural Network.
 
 
