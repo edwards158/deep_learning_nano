@@ -75,7 +75,7 @@ Train and deploy your own sentiment analysis model using Amazon's SageMaker. Dep
 #### Lessons: 
 Deployment, Sagemaker Model Deployment, Hyperparameter Tuning, Updating a Model
 
-### Course Project: [Deploying a Sentiment Analysis Model](https://github.com/riched158/deep_learning_nano/blob/main/Model_Deployment/SageMaker%20Project.ipynb) &nbsp;
+### Course Project: [Deploying a Sentiment Analysis Model](https://github.com/edwards158/deep_learning_nano/blob/main/Model_Deployment/SageMaker%20Project.ipynb) &nbsp;
 In this project, you will build and deploy a neural network which predicts the sentiment of a user-provided movie review. In addition, you will create a simple web app that uses your deployed model.
 
 
