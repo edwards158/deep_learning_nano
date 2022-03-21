@@ -63,7 +63,7 @@ Learn to understand and implement a Deep Convolutional GAN (generative adversari
 #### Lessons: 
 GANs, Deep Convolutional GANs, Pix2Pix & CycleGANS, Implementing a CycleGAN
 
-### Course Project: [Generate Faces](https://github.com/riched158/deep_learning_nano/blob/main/project-face-generation/dlnd_face_generation.ipynb) &nbsp;
+### Course Project: [Generate Faces](https://github.com/edwards158/deep_learning_nano/blob/main/project-face-generation/dlnd_face_generation.ipynb) &nbsp;
 Define two adversarial networks, a generator and discriminator, and train them until you can generate realistic faces.
 
 ## Course 6
